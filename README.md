@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moeinkolivand
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently Work As Backend Developer 
 - 📫 How to reach me moeinkolivand97@gmail.com
 
 <!---
